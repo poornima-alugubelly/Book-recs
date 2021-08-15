@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+  height: 100vh;
+  background: #dbeafe;
+}
+
+body {
+  margin: 0px;
+}
+.header {
+  color: white;
+  background: #93c5fd;
+  border-radius: 0.5rem;
+  height: 10vh;
+  margin: auto;
+}
+.button {
+  cursor: pointer;
+  background: cornflowerblue;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid white;
+  margin: 1rem 0.3rem;
+  box-shadow: 5px 10px #a2c4f0;
+}
+
+.rec {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  background-color: cornflowerblue;
+  margin: 15px auto;
+  width: 50vw;
+  padding: 15px;
+  justify-content: space-between;
+}
